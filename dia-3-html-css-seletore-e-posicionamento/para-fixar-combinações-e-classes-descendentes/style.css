@@ -28,3 +28,8 @@ ul#linguagens li:nth-child(-n+3) {
     color: blue;
 }
 
+ul#liguagens li:nth-last-of-type(java*){
+    background-color: pink;
+}
+
+
